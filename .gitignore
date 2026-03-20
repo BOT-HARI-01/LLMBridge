@@ -1,0 +1,8 @@
+
+extSys/com.unc.agent.json
+
+extSys/debug.log
+
+.DS_Store
+.vscode/
+node_modules/
